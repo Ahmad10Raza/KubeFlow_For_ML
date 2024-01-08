@@ -1,1 +1,3 @@
 *.pdf
+MLFlow/Data/creditcard.csv
+MLFlow/Data/.~lock.creditcard.csv#
